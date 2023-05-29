@@ -1,16 +1,13 @@
 # CartCraze
 
-[![GitHub Repo](https://img.shields.io/badge/github-repo-green.svg)](https://github.com/Anto1106/CartCraze)
+[![Frontend Repo](https://img.shields.io/badge/github-repo-green.svg)](https://github.com/Anto1106/CartCraze)
+[![Bacnkend Repo](https://img.shields.io/badge/github-repo-green.svg)](https://github.com/Anto1106/CartCraze)
 
 This project is a comprehensive social media application that connects people around the world.
 
 ## Description
 
 Detailed project description here.
-
-## Github Repo 
-
-Frontend : [CartCraze](https://github.com/Anto1106/CartCraze)
 
 ## Live Demo
 
