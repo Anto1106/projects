@@ -8,6 +8,10 @@ This project is a comprehensive social media application that connects people ar
 
 Detailed project description here.
 
+## Github Repo 
+
+Frontend : [CartCraze]([https://your-hosting-service.com](https://github.com/Anto1106/CartCraze))
+
 ## Live Demo
 
 The app is hosted at [your-hosting-service.com](https://your-hosting-service.com)
