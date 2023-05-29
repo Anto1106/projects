@@ -10,7 +10,7 @@ Detailed project description here.
 
 ## Github Repo 
 
-Frontend : [CartCraze]([https://your-hosting-service.com](https://github.com/Anto1106/CartCraze))
+Frontend : [CartCraze](https://github.com/Anto1106/CartCraze)
 
 ## Live Demo
 
