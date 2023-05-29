@@ -1,6 +1,6 @@
-# E-Commerce App
+# CartCraze
 
-[![GitHub Repo](https://img.shields.io/badge/github-repo-green.svg)](https://github.com/username/reponame)
+[![GitHub Repo](https://img.shields.io/badge/github-repo-green.svg)](https://github.com/Anto1106/CartCraze)
 
 This project is a comprehensive social media application that connects people around the world.
 
