@@ -22,7 +22,7 @@ These projects will be built using the following technologies:
 
 - **Frontend**: We'll be using the latest version of React.js to build the frontend of our applications. The focus will be on building functional, well-designed user interfaces that provide a seamless user experience.
 
-- **Backend**: The backend will be developed using the latest version of .NET Core. It will be robust and scalable, capable of supporting the needs of our applications and ensuring smooth data flow.
+- **Backend**: The backend will be developed using the latest version of Node JS. It will be robust and scalable, capable of supporting the needs of our applications and ensuring smooth data flow.
 
 ## Getting Started
 
