@@ -1,7 +1,6 @@
-# CartCraze
+# E-Commerce App | CartCraze
 
-[![Frontend Repo](https://img.shields.io/badge/github-repo-green.svg)](https://github.com/Anto1106/CartCraze)
-[![Bacnkend Repo](https://img.shields.io/badge/github-repo-green.svg)](https://github.com/Anto1106/CartCraze)
+[![Github Repo](https://img.shields.io/badge/github-repo-green.svg)](https://github.com/Anto1106/CartCraze)
 
 This project is a comprehensive social media application that connects people around the world.
 
@@ -11,12 +10,14 @@ Detailed project description here.
 
 ## Live Demo
 
-The app is hosted at [your-hosting-service.com](https://your-hosting-service.com)
+Comming Soon
+
+<!-- The app is hosted at [your-hosting-service.com](https://your-hosting-service.com) -->
 
 ## Built With
 
 - React.js (Front-end)
-- .NET Core (Back-end)
+- Node JS (Back-end)
 
 ## Getting Started
 
